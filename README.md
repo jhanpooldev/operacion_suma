@@ -14,6 +14,13 @@ Este script en Python realiza la **suma de dos números**, validando previamente
 - 🧪 Fácil de extender a más operaciones aritméticas si se desea.
 
 ---
+### Equipo de desarrollo 
+| Apellidos y nombres | ROL |
+|-------------------- | --- |
+|Flores Torres Jhanpool | Lider |
+
+
+---
 
 ## 🛠️ Requisitos
 
@@ -28,11 +35,6 @@ Este script en Python realiza la **suma de dos números**, validando previamente
   ![Logo de python ](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x)
 
 
-### Equipo de desarrollo 
-| Apellidos y nombres | ROL |
-|-------------------- | --- |
-|Flores Torres Jhanpool | Lider |
-|Inciso Aguilar Elizabeth | Colaboradora |
 
 ## 🚀 ¿Cómo ejecutar el script?
 
