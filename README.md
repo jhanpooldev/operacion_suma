@@ -8,3 +8,11 @@ El script implementa la suma de dos numeros y realiza la validacion de los opera
        [Repositorio Git hub]
        (https://github.com/jhanpooldev/operacion_suma/edit/main/README.md)
   ![Logo de python ](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x)
+
+
+### Equipo de desarrollo 
+| Apellidos y nombres | ROL |
+|-------------------- | --- |
+|Flores Torres Jhanpool | Lider |
+|Inciso Aguilar Elizabeth | Colaboradora |
+
