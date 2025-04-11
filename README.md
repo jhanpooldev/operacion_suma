@@ -23,6 +23,17 @@ Este script en Python realiza la **suma de dos números**, validando previamente
 
 ---
 
+       [Repositorio Git hub]
+       (https://github.com/jhanpooldev/operacion_suma/edit/main/README.md)
+  ![Logo de python ](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/raspberry-lanza-editor-codigo-aprender-python-lenguaje-ia-3008158.jpg?tf=3840x)
+
+
+### Equipo de desarrollo 
+| Apellidos y nombres | ROL |
+|-------------------- | --- |
+|Flores Torres Jhanpool | Lider |
+|Inciso Aguilar Elizabeth | Colaboradora |
+
 ## 🚀 ¿Cómo ejecutar el script?
 
 1. Clona este repositorio o descarga el archivo `suma_valida.py`.
